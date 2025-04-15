@@ -2,3 +2,5 @@
   repo: git@github.com:kamuridesu/nvim-config.git
 - name: fish
   repo: git@github.com:kamuridesu/peixefiles.git
+- name: dotsyncer
+  repo: git@github.com:kamuridesu/dotsfile.git
