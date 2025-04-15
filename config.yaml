@@ -1,0 +1,4 @@
+- name: nvim
+  repo: git@github.com:kamuridesu/nvim-config.git
+- name: fish
+  repo: git@github.com:kamuridesu/peixefiles.git
