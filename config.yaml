@@ -4,3 +4,5 @@
   repo: git@github.com:kamuridesu/peixefiles.git
 - name: dotsyncer
   repo: git@github.com:kamuridesu/dotsfile.git
+- name: rofi
+  repo: git@github.com:kamuridesu/rofi-config.git
